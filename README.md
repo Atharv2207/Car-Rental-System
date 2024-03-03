@@ -32,5 +32,7 @@
   - Customer8 => Car with ID = 8
   - Employee1 => Car with ID = 1
   - Employee3 => Car with ID = 3
-- Customers6 and Employee1 cannot rent any more cars according to their initial record value.
+- Customer6 and Employee1 cannot rent any more cars according to their initial record value.
+- Maximum number of days, a car can be rent for is 12.
+- Fine per day is assumed to be 500.
 - Today’s date is assumed to be 04/03/2024 for renting cars.
